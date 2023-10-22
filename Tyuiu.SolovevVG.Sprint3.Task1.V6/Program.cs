@@ -10,7 +10,7 @@ namespace Tyuiu.SolovevVG.Sprint3.Task1.V6
     class Program
     {
         static void Main(string[] args)
-        {
+        { 
             DataService dataService = new DataService(); 
 
             Console.Title = "Спринт #3 | Выполнил: Соловьев В. Г. | СМАРТб-23-1";
