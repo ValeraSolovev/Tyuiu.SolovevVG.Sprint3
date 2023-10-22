@@ -10,7 +10,7 @@ namespace Tyuiu.SolovevVG.Sprint3.Task1.V6.Test
         [TestMethod]
         public void TestMethod1()
         {
-            DataService dataService = new DataService();
+            DataService dataService = new DataService(); 
             int value = 4;
             int startValue = 1, stopValue = 10;
             double res = dataService.GetSumSeries(value, startValue, stopValue), wait = -389_102.250;
